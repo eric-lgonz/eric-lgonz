@@ -14,7 +14,5 @@
 <h2>✅ Certifications:</h2>
 
 - CompTIA Security+ (in progress)
-- Google Cybersecurity
-- Google IT Support
-
-<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+- <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf"> Google Cybersecurity</a>
+- <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20IT%20Support%20Certificate.pdf"> Google IT Support</a>
