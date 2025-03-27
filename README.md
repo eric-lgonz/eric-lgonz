@@ -11,7 +11,6 @@
 
 - <a href="https://github.com/eric-lgonz/TryHackme-Snort-Challenge---Live-Attacks"> Snort Challenge - Live Attacks
 
-<br/> ![tryhackme stats](https://raw.githubusercontent.com/eric-lgonz/eric-lgonz/master/assets/thm_propic.png)
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
 
 
