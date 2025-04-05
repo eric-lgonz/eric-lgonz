@@ -1,6 +1,6 @@
-<h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-lgonz"> Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-lgonz"> Technical Support Specialist</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Networking Projects:</h2>
 
 - <a href="https://github.com/eric-lgonz/Network-Traffic-Analysis-and-NIDS-NIPS-Configuration"> Network Traffic Analysis and NIDS/NIPS Configuration<a/>
 - <a href="https://github.com/eric-lgonz/Mastercard-Cybersecurity-Virtual-Experience-Program"> Mastercard Cybersecurity Virtual Experience Program<a/>
