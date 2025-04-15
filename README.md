@@ -18,6 +18,7 @@
 
 <h2>✅ Certifications:</h2>
 
+- Cisco Certified Network Associate (in progress)
 - CompTIA Security+ (in progress)
 - <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf"> Google Cybersecurity</a>
 - <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20IT%20Support%20Certificate.pdf"> Google IT Support</a>
