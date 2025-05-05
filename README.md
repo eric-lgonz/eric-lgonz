@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and Networking Projects:</h2>
 
 - <a href="https://github.com/eric-lgonz/Enterprise-Network-Expansion-and-VLAN-Implementation"> Enterprise Network Expansion and VLAN Configuration
-- <a href="https://github.com/eric-lgonz/Network-Traffic-Analysis-and-NIDS-NIPS-Configuration"> Network Traffic Analysis and NIDS/NIPS Configuration<a/>
+- <a href="https://github.com/eric-lgonz/Network-Traffic-Analysis-and-IDS-IPS-Configuration"> Network Traffic Analysis and IDS/IPS Configuration<a/>
 - <a href="https://github.com/eric-lgonz/Mastercard-Cybersecurity-Virtual-Experience-Program"> Mastercard Cybersecurity Virtual Experience Program<a/>
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
