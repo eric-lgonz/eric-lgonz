@@ -18,5 +18,6 @@
 
 <h2>✅ Certifications:</h2>
 
+- <a href="https://github.com/eric-lgonz/Certifications/blob/main/CompTIA%20Security%2B%20Certificate.pdf"> CompTIA Security+
 - <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf"> Google Cybersecurity</a>
 - <a href="https://github.com/eric-lgonz/Certifications/blob/main/Google%20IT%20Support%20Certificate.pdf"> Google IT Support</a>
