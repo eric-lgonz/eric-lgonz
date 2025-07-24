@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity and Networking Projects:</h2>
 
-- <a href="https://github.com/eric-lgonz/Enterprise-Network-Expansion"> Threat Detection & Response with AWS
+- <a href="https://github.com/eric-lgonz/Cloud-Threat-Detection-and-Response-with-AWS"> Threat Detection & Response with AWS
 - <a href="https://github.com/eric-lgonz/Enterprise-Network-Expansion"> Enterprise Network Expansion with Cisco Packet Tracer
 - <a href="https://github.com/eric-lgonz/Network-Traffic-Analysis-and-IDS-IPS-Configuration"> IDS/IPS Deployment & Traffic Analysis with Snort & Wireshark<a/>
 - <a href="https://github.com/eric-lgonz/Mastercard-Cybersecurity-Virtual-Experience-Program"> Mastercard Cybersecurity Virtual Experience Program<a/>
