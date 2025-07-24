@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/eric-lgonz/Cloud-Threat-Detection-and-Response-with-AWS"> Threat Detection & Response with AWS
 - <a href="https://github.com/eric-lgonz/Enterprise-Network-Expansion"> Enterprise Network Expansion with Cisco Packet Tracer
-- <a href="https://github.com/eric-lgonz/Network-Traffic-Analysis-and-IDS-IPS-Configuration"> IDS/IPS Deployment & Traffic Analysis with Snort & Wireshark<a/>
+- <a href="https://github.com/eric-lgonz/IDS-IPS-Deployment-and-Traffic-Analysis-with-Snort-and-Wireshark"> IDS/IPS Deployment & Traffic Analysis with Snort & Wireshark<a/>
 - <a href="https://github.com/eric-lgonz/Mastercard-Cybersecurity-Virtual-Experience-Program"> Mastercard Cybersecurity Virtual Experience Program<a/>
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
