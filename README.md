@@ -11,6 +11,7 @@
 <h2>✍️ TryHackMe Rooms Authored:</h2>
 
 - <a href="https://tryhackme.com/jr/ping101"> TryHackMe | Ping 101
+- <a href="https://tryhackme.com/jr/traceroute101"> TryHackMe | Traceroute 101
 
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
 
