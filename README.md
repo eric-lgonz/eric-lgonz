@@ -6,11 +6,11 @@
 - <a href="https://github.com/eric-lgonz/Enterprise-Network-Expansion-with-Cisco-Packet-Tracer"> Enterprise Network Expansion with Cisco Packet Tracer
 - <a href="https://github.com/eric-lgonz/IDS-IPS-Deployment-and-Traffic-Analysis-with-Snort-and-Wireshark"> IDS/IPS Deployment & Traffic Analysis with Snort & Wireshark<a/>
 - <a href="https://github.com/eric-lgonz/Mastercard-Cybersecurity-Virtual-Experience-Program"> Mastercard Cybersecurity Virtual Experience Program<a/>
-
-
-<h2>✍️ TryHackMe Writeups:</h2>
-
 - <a href="https://github.com/eric-lgonz/TryHackme-Snort-Challenge---Live-Attacks"> Snort Challenge - Live Attacks
+
+<h2>✍️ TryHackMe Rooms Authored:</h2>
+
+- <a href="https://tryhackme.com/jr/ping101"> TryHackMe | Ping 101
 
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
 
