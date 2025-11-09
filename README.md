@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-lgonz"> Undergraduate Researcher & Technical Support Specialist</a></h1>
+<h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-lgonz"> Network Operations Assistant & Undergraduate Researcher</a></h1>
 
 <h2>👨‍💻 Cybersecurity and Networking Projects:</h2>
 
